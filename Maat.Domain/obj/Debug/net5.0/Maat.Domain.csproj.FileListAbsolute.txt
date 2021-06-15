@@ -1,0 +1,36 @@
+C:\Users\Marius\Desktop\Licenta\Server\Maat\Maat.Domain\bin\Debug\net5.0\Maat.Domain.deps.json
+C:\Users\Marius\Desktop\Licenta\Server\Maat\Maat.Domain\bin\Debug\net5.0\Maat.Domain.dll
+C:\Users\Marius\Desktop\Licenta\Server\Maat\Maat.Domain\bin\Debug\net5.0\ref\Maat.Domain.dll
+C:\Users\Marius\Desktop\Licenta\Server\Maat\Maat.Domain\bin\Debug\net5.0\Maat.Domain.pdb
+C:\Users\Marius\Desktop\Licenta\Server\Maat\Maat.Domain\obj\Debug\net5.0\Maat.Domain.csprojAssemblyReference.cache
+C:\Users\Marius\Desktop\Licenta\Server\Maat\Maat.Domain\obj\Debug\net5.0\Maat.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marius\Desktop\Licenta\Server\Maat\Maat.Domain\obj\Debug\net5.0\Maat.Domain.AssemblyInfoInputs.cache
+C:\Users\Marius\Desktop\Licenta\Server\Maat\Maat.Domain\obj\Debug\net5.0\Maat.Domain.AssemblyInfo.cs
+C:\Users\Marius\Desktop\Licenta\Server\Maat\Maat.Domain\obj\Debug\net5.0\Maat.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Marius\Desktop\Licenta\Server\Maat\Maat.Domain\obj\Debug\net5.0\Maat.Domain.dll
+C:\Users\Marius\Desktop\Licenta\Server\Maat\Maat.Domain\obj\Debug\net5.0\ref\Maat.Domain.dll
+C:\Users\Marius\Desktop\Licenta\Server\Maat\Maat.Domain\obj\Debug\net5.0\Maat.Domain.pdb
+C:\Users\Marius\Desktop\bachelor thesis\App\Server\Maat\Maat.Domain\bin\Debug\net5.0\Maat.Domain.deps.json
+C:\Users\Marius\Desktop\bachelor thesis\App\Server\Maat\Maat.Domain\bin\Debug\net5.0\Maat.Domain.dll
+C:\Users\Marius\Desktop\bachelor thesis\App\Server\Maat\Maat.Domain\bin\Debug\net5.0\ref\Maat.Domain.dll
+C:\Users\Marius\Desktop\bachelor thesis\App\Server\Maat\Maat.Domain\bin\Debug\net5.0\Maat.Domain.pdb
+C:\Users\Marius\Desktop\bachelor thesis\App\Server\Maat\Maat.Domain\obj\Debug\net5.0\Maat.Domain.csprojAssemblyReference.cache
+C:\Users\Marius\Desktop\bachelor thesis\App\Server\Maat\Maat.Domain\obj\Debug\net5.0\Maat.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marius\Desktop\bachelor thesis\App\Server\Maat\Maat.Domain\obj\Debug\net5.0\Maat.Domain.AssemblyInfoInputs.cache
+C:\Users\Marius\Desktop\bachelor thesis\App\Server\Maat\Maat.Domain\obj\Debug\net5.0\Maat.Domain.AssemblyInfo.cs
+C:\Users\Marius\Desktop\bachelor thesis\App\Server\Maat\Maat.Domain\obj\Debug\net5.0\Maat.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Marius\Desktop\bachelor thesis\App\Server\Maat\Maat.Domain\obj\Debug\net5.0\Maat.Domain.dll
+C:\Users\Marius\Desktop\bachelor thesis\App\Server\Maat\Maat.Domain\obj\Debug\net5.0\ref\Maat.Domain.dll
+C:\Users\Marius\Desktop\bachelor thesis\App\Server\Maat\Maat.Domain\obj\Debug\net5.0\Maat.Domain.pdb
+C:\Users\Marius\Desktop\bachelor_thesis\App\Server\Maat\Maat.Domain\bin\Debug\net5.0\Maat.Domain.deps.json
+C:\Users\Marius\Desktop\bachelor_thesis\App\Server\Maat\Maat.Domain\bin\Debug\net5.0\Maat.Domain.dll
+C:\Users\Marius\Desktop\bachelor_thesis\App\Server\Maat\Maat.Domain\bin\Debug\net5.0\ref\Maat.Domain.dll
+C:\Users\Marius\Desktop\bachelor_thesis\App\Server\Maat\Maat.Domain\bin\Debug\net5.0\Maat.Domain.pdb
+C:\Users\Marius\Desktop\bachelor_thesis\App\Server\Maat\Maat.Domain\obj\Debug\net5.0\Maat.Domain.csprojAssemblyReference.cache
+C:\Users\Marius\Desktop\bachelor_thesis\App\Server\Maat\Maat.Domain\obj\Debug\net5.0\Maat.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marius\Desktop\bachelor_thesis\App\Server\Maat\Maat.Domain\obj\Debug\net5.0\Maat.Domain.AssemblyInfoInputs.cache
+C:\Users\Marius\Desktop\bachelor_thesis\App\Server\Maat\Maat.Domain\obj\Debug\net5.0\Maat.Domain.AssemblyInfo.cs
+C:\Users\Marius\Desktop\bachelor_thesis\App\Server\Maat\Maat.Domain\obj\Debug\net5.0\Maat.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Marius\Desktop\bachelor_thesis\App\Server\Maat\Maat.Domain\obj\Debug\net5.0\Maat.Domain.dll
+C:\Users\Marius\Desktop\bachelor_thesis\App\Server\Maat\Maat.Domain\obj\Debug\net5.0\ref\Maat.Domain.dll
+C:\Users\Marius\Desktop\bachelor_thesis\App\Server\Maat\Maat.Domain\obj\Debug\net5.0\Maat.Domain.pdb

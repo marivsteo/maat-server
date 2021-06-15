@@ -1,0 +1,36 @@
+C:\Users\Marius\Desktop\bachelor thesis\App\Server\Maat\Maat.DataAccess\bin\Release\net5.0\Maat.DataAccess.deps.json
+C:\Users\Marius\Desktop\bachelor thesis\App\Server\Maat\Maat.DataAccess\bin\Release\net5.0\Maat.DataAccess.runtimeconfig.json
+C:\Users\Marius\Desktop\bachelor thesis\App\Server\Maat\Maat.DataAccess\bin\Release\net5.0\Maat.DataAccess.runtimeconfig.dev.json
+C:\Users\Marius\Desktop\bachelor thesis\App\Server\Maat\Maat.DataAccess\bin\Release\net5.0\Maat.DataAccess.dll
+C:\Users\Marius\Desktop\bachelor thesis\App\Server\Maat\Maat.DataAccess\bin\Release\net5.0\ref\Maat.DataAccess.dll
+C:\Users\Marius\Desktop\bachelor thesis\App\Server\Maat\Maat.DataAccess\bin\Release\net5.0\Maat.DataAccess.pdb
+C:\Users\Marius\Desktop\bachelor thesis\App\Server\Maat\Maat.DataAccess\bin\Release\net5.0\Maat.Domain.dll
+C:\Users\Marius\Desktop\bachelor thesis\App\Server\Maat\Maat.DataAccess\bin\Release\net5.0\Maat.Domain.pdb
+C:\Users\Marius\Desktop\bachelor thesis\App\Server\Maat\Maat.DataAccess\obj\Release\net5.0\Maat.DataAccess.csprojAssemblyReference.cache
+C:\Users\Marius\Desktop\bachelor thesis\App\Server\Maat\Maat.DataAccess\obj\Release\net5.0\Maat.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marius\Desktop\bachelor thesis\App\Server\Maat\Maat.DataAccess\obj\Release\net5.0\Maat.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Marius\Desktop\bachelor thesis\App\Server\Maat\Maat.DataAccess\obj\Release\net5.0\Maat.DataAccess.AssemblyInfo.cs
+C:\Users\Marius\Desktop\bachelor thesis\App\Server\Maat\Maat.DataAccess\obj\Release\net5.0\Maat.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Marius\Desktop\bachelor thesis\App\Server\Maat\Maat.DataAccess\obj\Release\net5.0\Maat.DataAccess.csproj.CopyComplete
+C:\Users\Marius\Desktop\bachelor thesis\App\Server\Maat\Maat.DataAccess\obj\Release\net5.0\Maat.DataAccess.dll
+C:\Users\Marius\Desktop\bachelor thesis\App\Server\Maat\Maat.DataAccess\obj\Release\net5.0\ref\Maat.DataAccess.dll
+C:\Users\Marius\Desktop\bachelor thesis\App\Server\Maat\Maat.DataAccess\obj\Release\net5.0\Maat.DataAccess.pdb
+C:\Users\Marius\Desktop\bachelor thesis\App\Server\Maat\Maat.DataAccess\obj\Release\net5.0\Maat.DataAccess.genruntimeconfig.cache
+C:\Users\Marius\Desktop\bachelor_thesis\App\Server\Maat\Maat.DataAccess\bin\Release\net5.0\Maat.DataAccess.deps.json
+C:\Users\Marius\Desktop\bachelor_thesis\App\Server\Maat\Maat.DataAccess\bin\Release\net5.0\Maat.DataAccess.runtimeconfig.json
+C:\Users\Marius\Desktop\bachelor_thesis\App\Server\Maat\Maat.DataAccess\bin\Release\net5.0\Maat.DataAccess.runtimeconfig.dev.json
+C:\Users\Marius\Desktop\bachelor_thesis\App\Server\Maat\Maat.DataAccess\bin\Release\net5.0\Maat.DataAccess.dll
+C:\Users\Marius\Desktop\bachelor_thesis\App\Server\Maat\Maat.DataAccess\bin\Release\net5.0\ref\Maat.DataAccess.dll
+C:\Users\Marius\Desktop\bachelor_thesis\App\Server\Maat\Maat.DataAccess\bin\Release\net5.0\Maat.DataAccess.pdb
+C:\Users\Marius\Desktop\bachelor_thesis\App\Server\Maat\Maat.DataAccess\bin\Release\net5.0\Maat.Domain.dll
+C:\Users\Marius\Desktop\bachelor_thesis\App\Server\Maat\Maat.DataAccess\bin\Release\net5.0\Maat.Domain.pdb
+C:\Users\Marius\Desktop\bachelor_thesis\App\Server\Maat\Maat.DataAccess\obj\Release\net5.0\Maat.DataAccess.csprojAssemblyReference.cache
+C:\Users\Marius\Desktop\bachelor_thesis\App\Server\Maat\Maat.DataAccess\obj\Release\net5.0\Maat.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marius\Desktop\bachelor_thesis\App\Server\Maat\Maat.DataAccess\obj\Release\net5.0\Maat.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Marius\Desktop\bachelor_thesis\App\Server\Maat\Maat.DataAccess\obj\Release\net5.0\Maat.DataAccess.AssemblyInfo.cs
+C:\Users\Marius\Desktop\bachelor_thesis\App\Server\Maat\Maat.DataAccess\obj\Release\net5.0\Maat.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Marius\Desktop\bachelor_thesis\App\Server\Maat\Maat.DataAccess\obj\Release\net5.0\Maat.DataAccess.csproj.CopyComplete
+C:\Users\Marius\Desktop\bachelor_thesis\App\Server\Maat\Maat.DataAccess\obj\Release\net5.0\Maat.DataAccess.dll
+C:\Users\Marius\Desktop\bachelor_thesis\App\Server\Maat\Maat.DataAccess\obj\Release\net5.0\ref\Maat.DataAccess.dll
+C:\Users\Marius\Desktop\bachelor_thesis\App\Server\Maat\Maat.DataAccess\obj\Release\net5.0\Maat.DataAccess.pdb
+C:\Users\Marius\Desktop\bachelor_thesis\App\Server\Maat\Maat.DataAccess\obj\Release\net5.0\Maat.DataAccess.genruntimeconfig.cache

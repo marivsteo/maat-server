@@ -1,0 +1,3 @@
+C:\Users\Marius\Desktop\bachelor thesis\App\Server\Maat\Maat.Domain\bin\Release\net5.0\publish\Maat.Domain.dll
+C:\Users\Marius\Desktop\bachelor thesis\App\Server\Maat\Maat.Domain\bin\Release\net5.0\publish\Maat.Domain.deps.json
+C:\Users\Marius\Desktop\bachelor thesis\App\Server\Maat\Maat.Domain\bin\Release\net5.0\publish\Maat.Domain.pdb
