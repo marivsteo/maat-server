@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Marius\\Desktop\\bachelor_thesis\\maat-server\\maat-server\\Maat.Domain\\Maat.Domain.csproj": {}
+    "C:\\Users\\marius.teodorescu\\Desktop\\personal\\maat-server\\Maat.Domain\\Maat.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Marius\\Desktop\\bachelor_thesis\\maat-server\\maat-server\\Maat.Domain\\Maat.Domain.csproj": {
+    "C:\\Users\\marius.teodorescu\\Desktop\\personal\\maat-server\\Maat.Domain\\Maat.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Marius\\Desktop\\bachelor_thesis\\maat-server\\maat-server\\Maat.Domain\\Maat.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\marius.teodorescu\\Desktop\\personal\\maat-server\\Maat.Domain\\Maat.Domain.csproj",
         "projectName": "Maat.Domain",
-        "projectPath": "C:\\Users\\Marius\\Desktop\\bachelor_thesis\\maat-server\\maat-server\\Maat.Domain\\Maat.Domain.csproj",
-        "packagesPath": "C:\\Users\\Marius\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Marius\\Desktop\\bachelor_thesis\\maat-server\\maat-server\\Maat.Domain\\obj\\",
+        "projectPath": "C:\\Users\\marius.teodorescu\\Desktop\\personal\\maat-server\\Maat.Domain\\Maat.Domain.csproj",
+        "packagesPath": "C:\\Users\\marius.teodorescu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\marius.teodorescu\\Desktop\\personal\\maat-server\\Maat.Domain\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Marius\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\marius.teodorescu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,24 +1,11 @@
-C:\Users\Marius\Desktop\bachelor thesis\App\Server\Maat\Maat.Domain\bin\Release\net5.0\Maat.Domain.deps.json
-C:\Users\Marius\Desktop\bachelor thesis\App\Server\Maat\Maat.Domain\bin\Release\net5.0\Maat.Domain.dll
-C:\Users\Marius\Desktop\bachelor thesis\App\Server\Maat\Maat.Domain\bin\Release\net5.0\ref\Maat.Domain.dll
-C:\Users\Marius\Desktop\bachelor thesis\App\Server\Maat\Maat.Domain\bin\Release\net5.0\Maat.Domain.pdb
-C:\Users\Marius\Desktop\bachelor thesis\App\Server\Maat\Maat.Domain\obj\Release\net5.0\Maat.Domain.csprojAssemblyReference.cache
-C:\Users\Marius\Desktop\bachelor thesis\App\Server\Maat\Maat.Domain\obj\Release\net5.0\Maat.Domain.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Marius\Desktop\bachelor thesis\App\Server\Maat\Maat.Domain\obj\Release\net5.0\Maat.Domain.AssemblyInfoInputs.cache
-C:\Users\Marius\Desktop\bachelor thesis\App\Server\Maat\Maat.Domain\obj\Release\net5.0\Maat.Domain.AssemblyInfo.cs
-C:\Users\Marius\Desktop\bachelor thesis\App\Server\Maat\Maat.Domain\obj\Release\net5.0\Maat.Domain.csproj.CoreCompileInputs.cache
-C:\Users\Marius\Desktop\bachelor thesis\App\Server\Maat\Maat.Domain\obj\Release\net5.0\Maat.Domain.dll
-C:\Users\Marius\Desktop\bachelor thesis\App\Server\Maat\Maat.Domain\obj\Release\net5.0\ref\Maat.Domain.dll
-C:\Users\Marius\Desktop\bachelor thesis\App\Server\Maat\Maat.Domain\obj\Release\net5.0\Maat.Domain.pdb
-C:\Users\Marius\Desktop\bachelor_thesis\App\Server\Maat\Maat.Domain\bin\Release\net5.0\Maat.Domain.deps.json
-C:\Users\Marius\Desktop\bachelor_thesis\App\Server\Maat\Maat.Domain\bin\Release\net5.0\Maat.Domain.dll
-C:\Users\Marius\Desktop\bachelor_thesis\App\Server\Maat\Maat.Domain\bin\Release\net5.0\ref\Maat.Domain.dll
-C:\Users\Marius\Desktop\bachelor_thesis\App\Server\Maat\Maat.Domain\bin\Release\net5.0\Maat.Domain.pdb
-C:\Users\Marius\Desktop\bachelor_thesis\App\Server\Maat\Maat.Domain\obj\Release\net5.0\Maat.Domain.csprojAssemblyReference.cache
-C:\Users\Marius\Desktop\bachelor_thesis\App\Server\Maat\Maat.Domain\obj\Release\net5.0\Maat.Domain.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Marius\Desktop\bachelor_thesis\App\Server\Maat\Maat.Domain\obj\Release\net5.0\Maat.Domain.AssemblyInfoInputs.cache
-C:\Users\Marius\Desktop\bachelor_thesis\App\Server\Maat\Maat.Domain\obj\Release\net5.0\Maat.Domain.AssemblyInfo.cs
-C:\Users\Marius\Desktop\bachelor_thesis\App\Server\Maat\Maat.Domain\obj\Release\net5.0\Maat.Domain.csproj.CoreCompileInputs.cache
-C:\Users\Marius\Desktop\bachelor_thesis\App\Server\Maat\Maat.Domain\obj\Release\net5.0\Maat.Domain.dll
-C:\Users\Marius\Desktop\bachelor_thesis\App\Server\Maat\Maat.Domain\obj\Release\net5.0\ref\Maat.Domain.dll
-C:\Users\Marius\Desktop\bachelor_thesis\App\Server\Maat\Maat.Domain\obj\Release\net5.0\Maat.Domain.pdb
+C:\Users\marius.teodorescu\Desktop\personal\maat-server\Maat.Domain\bin\Release\net5.0\Maat.Domain.deps.json
+C:\Users\marius.teodorescu\Desktop\personal\maat-server\Maat.Domain\bin\Release\net5.0\Maat.Domain.dll
+C:\Users\marius.teodorescu\Desktop\personal\maat-server\Maat.Domain\bin\Release\net5.0\ref\Maat.Domain.dll
+C:\Users\marius.teodorescu\Desktop\personal\maat-server\Maat.Domain\bin\Release\net5.0\Maat.Domain.pdb
+C:\Users\marius.teodorescu\Desktop\personal\maat-server\Maat.Domain\obj\Release\net5.0\Maat.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marius.teodorescu\Desktop\personal\maat-server\Maat.Domain\obj\Release\net5.0\Maat.Domain.AssemblyInfoInputs.cache
+C:\Users\marius.teodorescu\Desktop\personal\maat-server\Maat.Domain\obj\Release\net5.0\Maat.Domain.AssemblyInfo.cs
+C:\Users\marius.teodorescu\Desktop\personal\maat-server\Maat.Domain\obj\Release\net5.0\Maat.Domain.csproj.CoreCompileInputs.cache
+C:\Users\marius.teodorescu\Desktop\personal\maat-server\Maat.Domain\obj\Release\net5.0\Maat.Domain.dll
+C:\Users\marius.teodorescu\Desktop\personal\maat-server\Maat.Domain\obj\Release\net5.0\ref\Maat.Domain.dll
+C:\Users\marius.teodorescu\Desktop\personal\maat-server\Maat.Domain\obj\Release\net5.0\Maat.Domain.pdb
